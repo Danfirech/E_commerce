@@ -1,0 +1,23 @@
+{
+  "folders": [
+	{
+		"path": "."
+	},
+	{
+		"path": "../../Class-Repo-Activities/13-ORM/02-Homework/Develop/config"
+	},
+	{
+		"path": "../../Class-Repo-Activities/13-ORM/02-Homework/Develop/models"
+	},
+	{
+		"path": "../../Class-Repo-Activities/13-ORM/02-Homework/Develop/routes"
+	},
+	{
+		"path": "../../Class-Repo-Activities/13-ORM/02-Homework/Develop/seeds"
+	},
+	{
+		"path": "../../Class-Repo-Activities/13-ORM/02-Homework/Develop/db"
+	}
+],
+  "settings": {}
+}
